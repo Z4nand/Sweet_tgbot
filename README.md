@@ -1,1 +1,1 @@
-# Sweet_tgbot
+# tg: @SweetTalkingBot

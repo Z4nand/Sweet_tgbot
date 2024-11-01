@@ -1,0 +1,1 @@
+from .quiz_question import quiz_data
